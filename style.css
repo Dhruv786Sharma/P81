@@ -1,0 +1,13 @@
+h1
+{
+	color: gray; 
+	font-size: 50px;
+}
+.body_backgorund 
+{
+  background-image: url(VictoryWallpaper2.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+
